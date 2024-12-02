@@ -1,1 +1,4 @@
-# Practics-from-Google-Colab
+# Practics from Google Colab
+
+## Описание
+Этот репозиторий создан для хранения учебных практик по программированию, выполненных в среде Google Colab.
